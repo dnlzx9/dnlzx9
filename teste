@@ -1,0 +1,7 @@
+README.md
+git init
+git add README.md
+git commit -M "primeiro commit
+git branch -M principal
+git remoto adicionar origem https://github.com/dnlzx9/dnlzx9.git
+git push - sua origem principal
